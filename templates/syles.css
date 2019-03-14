@@ -1,0 +1,17 @@
+.header {
+
+padding: 60px;
+text-align: center;
+background: #cccccc
+color: white;
+font-size: 25px;
+
+}
+
+.box{
+    float:left;
+    margin-right: 20px;
+}
+.clear{
+    clear:both ;
+}
